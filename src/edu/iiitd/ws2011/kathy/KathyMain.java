@@ -1,7 +1,12 @@
 package edu.iiitd.ws2011.kathy;
 
 import java.util.ArrayList;
+
 import java.util.Scanner;
+
+/**
+ ** @author Molukins, Sharampoorna and Apoorv
+ **/
 
 public class KathyMain
 {
